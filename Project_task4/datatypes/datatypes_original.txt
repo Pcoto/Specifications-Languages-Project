@@ -1,0 +1,8 @@
+t_pi			64  32	SC_TRN	SC_WRAP	0
+t_accu      	64  32	SC_TRN	SC_WRAP	0
+t_pix			64  32	SC_TRN	SC_WRAP 	0
+t_coeffs		64  32	SC_TRN	SC_WRAP 	0
+t_block		64  32	SC_TRN	SC_WRAP 	0
+t_temp_block	64  32	SC_TRN	SC_WRAP 	0
+t_blocki		64  32	SC_TRN	SC_WRAP 	0
+
